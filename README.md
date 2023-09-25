@@ -35,6 +35,9 @@ The wireless modem works like a dial-up modem. The difference between is that di
 5) RELAY DRIVER:
 We are using node MCU ESP8266 to control the relay and therefore electricity to Distribution area Through internet. The microcontroller output is not enough to drive the relay directly. Hence to drive a relay, use a relay driver uses a transistor as a switch.
 
+![image](https://github.com/Poojitha5532/MAJOR-PROJECT/assets/114279967/3165c2f0-20e9-44d1-9f22-3392a5f84c9b)
+
+
 # WORKING:
 
 1) At First we have to insert our sim card in GSM . Then user start the circuit by connecting it to power supply and by switching on.
@@ -51,6 +54,8 @@ We are using node MCU ESP8266 to control the relay and therefore electricity to 
 12) If the values are controlled (or) came to the predefined range, then the user will not get alert messages.
 13) If the user conformed about values are at predefined values, then user will off the load by sending another SMS command i.e; *2#.
 14)  So, that load will be getting off and montoring of the values will be started and the process continues.
+    ![image](https://github.com/Poojitha5532/MAJOR-PROJECT/assets/114279967/a9e130f5-9f3d-42b6-ba34-4c0c1321aa16)
+    ![image](https://github.com/Poojitha5532/MAJOR-PROJECT/assets/114279967/8d3ac4ce-51c4-4277-9464-64a06249d862)
 
 # ADVANTAGES
 
